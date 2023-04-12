@@ -1,5 +1,7 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuye251)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuye251&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **wuye251/wuye251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

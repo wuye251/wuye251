@@ -4,6 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuye251&layout=compact&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"><a href="http://hahagblog.com">👨🏽‍💻 Blog: hahagblog.com</a></p>
 
 
 <!--
